@@ -29,7 +29,7 @@ export const App = () => {
 
     const options = Object.keys(feedbackState);
       return<>
-          <Sections title="Please leave feedback">
+          <Sections title="Please leave feedback ">
             <FeedbackOptions
               options={options}
               onLeaveFeedback={onClick} />
