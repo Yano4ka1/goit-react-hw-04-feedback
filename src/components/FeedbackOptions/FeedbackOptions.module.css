@@ -1,0 +1,13 @@
+.btnContainer {
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    
+}
+
+button {
+    padding: 5px 15px;
+    border-radius: 1px;
+    background-color: rgb(178, 197, 197);
+
+}
